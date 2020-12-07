@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+    <name>products availability list</name>
+    <ProductsAvailability>
+        <ProductAvailability ProductAmount="100" ProductId="1" ProductPrice="100" sellerId="1"/>
+        <ProductAvailability ProductAmount="40" ProductId="2" ProductPrice="80" sellerId="3"/>
+        <ProductAvailability ProductAmount="90" ProductId="3" ProductPrice="110" sellerId="2"/>
+    </ProductsAvailability>
+</company>

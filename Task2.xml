@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+    <name>sales list</name>
+    <NumberOfSales>
+        <NumberOfSales Date="2020-12-13" NumberOfSales="1"/>
+        <NumberOfSales Date="2020-12-11" NumberOfSales="1"/>
+        <NumberOfSales Date="2020-12-10" NumberOfSales="3"/>
+    </NumberOfSales>
+</company>

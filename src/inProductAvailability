@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+    <name>products availability list</name>
+    <ProductsAvailability>
+        <ProductAvailability sellerId="1" productId="1" productPrice="100" productAmount="100"/>
+        <ProductAvailability sellerId="2" productId="3" productPrice="90" productAmount="50"/>
+        <ProductAvailability sellerId="3" productId="2" productPrice="80" productAmount="40"/>
+        <ProductAvailability sellerId="2" productId="3" productPrice="110" productAmount="90"/>
+        <ProductAvailability sellerId="3" productId="1" productPrice="60" productAmount="50"/>
+    </ProductsAvailability>
+</company>
